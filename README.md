@@ -1,70 +1,60 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### NYtimes.com_web_clone
+This is clone of NYtimes.com, where we have used HTML, CSS Advance Javascript and React to acheive this.
+In this project we have tried to clone the “H&M” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
 
-## Available Scripts
+ # NYtimes logo:- 
+![download](https://user-images.githubusercontent.com/95956384/161389858-2f5363a0-56cd-49d5-8294-b3189dd83324.png)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Live Site here : (https://h-m-project.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# NYtimes-Website-Clone
+# About NYtimes-- >
+The New York Times is an American daily newspaper based in New York City with a worldwide readership. It was founded in 1851 by Henry Jarvis Raymond and George Jones.
+ 
+# Video link:
+ # we have shared a demo presentation of this project "H&M-clone".
+ https://drive.google.com/file/d/1wvXQMH0tbyhHCFgmwto_l-16TztyRGAW/view?usp=sharing
+ 
+# Blog link :- 
+https://medium.com/@apurva.bkt/cloning-the-new-york-time-6cdfbd57ba84
 
-### `npm test`
+ 
+# Snapshots
+1 Login Page:- 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2 Home page:-
 
-### `npm run build`
+3 Specefic page:-
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Technology We Used :computer: 
+1. HTML5
+2. CSS3
+3. Advanced JavaScript
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Features
+1. You will be able to create your account using login and signup option.
 
-## Learn More
+2. You can choose a product which you want to buy and add to cart section.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. One can Sort and Filter the product according to the prices and categories of different products.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. User can also select and remove items from cart section and make payment through card.
 
-### Code Splitting
+5. All the data is stored in the localStorage of the User. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Instructions to Run the Code 
 
-### Analyzing the Bundle Size
+- Clone my repository `https://github.com/itsyogihr13/H-M-frontend-_proj`
+- Open that code in your VS code `HomePage.html`
+- Open the `HomePage.html` on Live server
+- Then you can Navigate through other pages from Landing page like `signin.html`, `cart.html`, `payment.html` etc.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
