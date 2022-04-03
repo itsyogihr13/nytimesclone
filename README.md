@@ -13,7 +13,7 @@ In this project we have tried to clone the “NYtimes” website. We had build u
 The New York Times is an American daily newspaper based in New York City with a worldwide readership. It was founded in 1851 by Henry Jarvis Raymond and George Jones.
  
 ## Video link:
- ### we have shared a demo presentation of this project "H&M-clone".
+ ### we have shared a demo presentation of this project "NYtimes-clone".
  https://drive.google.com/file/d/1wvXQMH0tbyhHCFgmwto_l-16TztyRGAW/view?usp=sharing
  
 ### Blog link :- 
