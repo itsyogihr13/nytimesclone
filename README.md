@@ -40,7 +40,7 @@ https://medium.com/@apurva.bkt/cloning-the-new-york-time-6cdfbd57ba84
 2. CSS3
 3. Advanced JavaScript
 4. ReactJS
-
+<!-- 
 ## Features
 1. You will be able to create your account using login and signup option.
 
@@ -50,7 +50,7 @@ https://medium.com/@apurva.bkt/cloning-the-new-york-time-6cdfbd57ba84
 
 4. User can also select and remove items from cart section and make payment through card.
 
-5. All the data is stored in the localStorage of the User. 
+5. All the data is stored in the localStorage of the User.  -->
 
 ## Instructions to Run the Code 
 
