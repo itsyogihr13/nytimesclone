@@ -1,6 +1,6 @@
 # NYtimes-Website-Clone
 This is clone of NYtimes.com, where we have used HTML, CSS Advance Javascript and React to acheive this.
-In this project we have tried to clone the “H&M” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
+In this project we have tried to clone the “NYtimes” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
 
  ## NYtimes logo:- 
 ![download](https://user-images.githubusercontent.com/95956384/161389858-2f5363a0-56cd-49d5-8294-b3189dd83324.png)
