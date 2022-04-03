@@ -7,7 +7,7 @@ In this project we have tried to clone the “NYtimes” website. We had build u
 
 
 
-## Live Site here : (https://h-m-project.vercel.app/)
+## Live Site here : (https://nytimes-react-app-master-35noih88m-itsyogihr13.vercel.app/)
 
 ## About NYtimes-- >
 The New York Times is an American daily newspaper based in New York City with a worldwide readership. It was founded in 1851 by Henry Jarvis Raymond and George Jones.
